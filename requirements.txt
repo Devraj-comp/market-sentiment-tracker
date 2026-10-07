@@ -1,0 +1,5 @@
+praw
+kafka-python
+python-dotenv
+pyspark
+textblob
