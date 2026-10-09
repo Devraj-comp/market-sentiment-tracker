@@ -1,0 +1,2 @@
+/Users/devraj/Documents/Personal/market-sentiment-tracker/src/news_producer.py:76: DeprecationWarning: value_serializer does not implement kafka.serializer.Serializer
+  main()
